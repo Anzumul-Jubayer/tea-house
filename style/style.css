@@ -1,3 +1,9 @@
+
+
 .manrope-font {
   font-family: "Manrope", sans-serif;
 }
+/* Tailwind suggestion */
+@import "tailwindcss"
+
+
